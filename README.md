@@ -1,6 +1,6 @@
-# Differential Imaging Phase Correction via Optical Reference Image
+# A Data-Driven Approach for Optical Reference-Guided Optimization of Millimeter-Wave Imaging
 
-This repository contains the official implementation of **“Differential Imaging Phase Correction via Optical Reference Image.”**
+This repository contains the official implementation of **“A Data-Driven Approach for Optical Reference-Guided Optimization of Millimeter-Wave Imaging.”**
 
 ---
 ### Dataset
