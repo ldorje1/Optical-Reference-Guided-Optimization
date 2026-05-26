@@ -5,6 +5,10 @@ This repository contains the official implementation of **“A Data-Driven Appro
 
 Google Drive folder: [Raw SAR MmWave Data](https://drive.google.com/drive/folders/1SmQkmSBHFs-GE6dmCB0YQMtY6fg1hv1Y?usp=drive_link)
 
+
+### Directions
+Place both the `sar_raw_data` and `optical_refs` folders in the same directory as `di_opticalref_mask_v12.m`.
+
 ---
 ### Dataset
 
