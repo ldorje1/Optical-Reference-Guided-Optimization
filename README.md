@@ -7,7 +7,9 @@ Google Drive folder: [Raw SAR MmWave Data](https://drive.google.com/drive/folder
 
 
 ### Directions
-Place both the `sar_raw_data` and `optical_refs` folders in the same directory as `di_opticalref_mask_v12.m`.
+Place both the `sar_raw_data` and `optical_refs` folders in the same directory as `main_di_opticalref_mask_v12.m`.
+
+- Note: `bpa_lia_enhancedbpa_eval_only.m`, `csa_eval_only.m`, and `rmist_net_eval_only.ipynb` are for evaluation only!
 
 ---
 ### Dataset
