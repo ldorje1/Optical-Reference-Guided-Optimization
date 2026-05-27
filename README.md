@@ -22,4 +22,5 @@ This repository uses millimeter-wave datasets from [1], [2], and our own collect
 
 [3] L. Dorje et al., “MilliSARImageNet: A 2D High-Resolution Millimeter-Wave SAR Image Dataset,” in *2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, 2026.
 
-Thank you!
+---
+See our paper: "A Data-Driven Approach for Optical Reference-Guided Optimization of Millimeter-Wave Imaging".
